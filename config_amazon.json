@@ -1,0 +1,11 @@
+
+{
+    "imap_server": "imap.gmail.com",
+    "imap_user": "your_email@gmail.com",
+    "imap_password": "your_password_or_app_password",
+    "webhook_url": "https://discord.com/api/webhooks/your_webhook_url",
+    "email_senders": ["amazon.com"],
+    "order_threshold": 50.00,
+    "check_interval_seconds": 300,
+    "recipient_exclude_list": ["exclude_this@example.com", "another_exclude@example.com"]
+}
